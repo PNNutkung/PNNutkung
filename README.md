@@ -15,7 +15,7 @@
   (June 2021 - Present)
 - Fullstack Software Engineer at [LINE MAN](https://lineman.line.me/) [Wongnai](https://wongnai.com/)  
   (September 2020 - June 2021)
-  - working on [LINE MAN](https://lineman.line.me/) Driver Service
+  - Worked on [LINE MAN](https://lineman.line.me/) Driver Service
 - Fullstack Software Engineer at [Blognone Co, Ltd.](https://www.blognone.com/)  
   (July 2018 - September 2020)
-  - Working on [Blognone Jobs](https://jobs.blognone.com/)
+  - Worked on [Blognone Jobs](https://jobs.blognone.com/)
