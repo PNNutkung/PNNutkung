@@ -19,3 +19,7 @@
 - Fullstack Software Engineer at [Blognone Co, Ltd.](https://www.blognone.com/)  
   (July 2018 - September 2020)
   - Worked on [Blognone Jobs](https://jobs.blognone.com/)
+
+![PNNutkung's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnnutkung&show_icons=true&theme=merko&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnnutkung&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
